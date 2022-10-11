@@ -1,0 +1,97 @@
+{
+  "today": "2022 年 10 月 11 日",
+  "searchArea": [
+    {
+      "location": "台北市南港區",
+      "time": "星期二 下午9:00",
+      "weekWeather": [
+        {
+          "week": "週二",
+          "weather": "零星陣雨",
+          "temperature": "23~21"
+        },
+        {
+          "week": "週三",
+          "weather": "陣雨",
+          "temperature": "24~22"
+        },
+        {
+          "week": "週四",
+          "weather": "陣雨",
+          "temperature": "26~22"
+        },
+        {
+          "week": "週五",
+          "weather": "陣雨",
+          "temperature": "26~23"
+        },
+        {
+          "week": "週六",
+          "weather": "雷陣雨",
+          "temperature": "27~24"
+        },
+        {
+          "week": "週日",
+          "weather": "雷陣雨",
+          "temperature": "27~24"
+        },
+        {
+          "week": "週一",
+          "weather": "雨",
+          "temperature": "26~19"
+        },
+        {
+          "week": "週二",
+          "weather": "雨",
+          "temperature": "22~19"
+        }
+      ]
+    },
+    {
+      "location": "台南市善化區",
+      "time": "星期二 下午9:00",
+      "weekWeather": [
+        {
+          "week": "週二",
+          "weather": "局部有雲",
+          "temperature": "29~21"
+        },
+        {
+          "week": "週三",
+          "weather": "局部有雲",
+          "temperature": "33~22"
+        },
+        {
+          "week": "週四",
+          "weather": "大致晴朗",
+          "temperature": "33~23"
+        },
+        {
+          "week": "週五",
+          "weather": "局部有雲",
+          "temperature": "32~22"
+        },
+        {
+          "week": "週六",
+          "weather": "局部有雲",
+          "temperature": "33~23"
+        },
+        {
+          "week": "週日",
+          "weather": "局部雷雨",
+          "temperature": "32~23"
+        },
+        {
+          "week": "週一",
+          "weather": "雷陣雨",
+          "temperature": "28~19"
+        },
+        {
+          "week": "週二",
+          "weather": "零星陣雨",
+          "temperature": "27~19"
+        }
+      ]
+    }
+  ]
+}
